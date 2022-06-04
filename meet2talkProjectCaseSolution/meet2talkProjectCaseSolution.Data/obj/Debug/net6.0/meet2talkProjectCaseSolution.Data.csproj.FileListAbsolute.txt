@@ -1,0 +1,12 @@
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\bin\Debug\net6.0\meet2talkProjectCaseSolution.Data.deps.json
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\bin\Debug\net6.0\meet2talkProjectCaseSolution.Data.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\bin\Debug\net6.0\meet2talkProjectCaseSolution.Data.pdb
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.AssemblyInfo.cs
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\refint\meet2talkProjectCaseSolution.Data.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\meet2talkProjectCaseSolution.Data.pdb
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.Data\obj\Debug\net6.0\ref\meet2talkProjectCaseSolution.Data.dll

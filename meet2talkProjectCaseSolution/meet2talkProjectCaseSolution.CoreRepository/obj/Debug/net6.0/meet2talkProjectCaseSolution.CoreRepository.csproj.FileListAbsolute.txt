@@ -1,0 +1,15 @@
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\bin\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.deps.json
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\bin\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\bin\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.pdb
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\bin\Debug\net6.0\meet2talkProjectCaseSolution.Data.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\bin\Debug\net6.0\meet2talkProjectCaseSolution.Data.pdb
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.AssemblyInfo.cs
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.csproj.CopyComplete
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\refint\meet2talkProjectCaseSolution.CoreRepository.dll
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\meet2talkProjectCaseSolution.CoreRepository.pdb
+C:\Users\hasan\Desktop\meet2talkProjectCaseSolution\meet2talkProjectCaseSolution.CoreRepository\obj\Debug\net6.0\ref\meet2talkProjectCaseSolution.CoreRepository.dll
